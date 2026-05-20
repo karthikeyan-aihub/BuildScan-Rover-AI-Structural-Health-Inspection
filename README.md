@@ -386,17 +386,6 @@ BuildScan_Rover_Thesis.pdf
 Research_Publication.pdf
 ```
 
----
-
-# 👨‍💻 Author
-
-**Karthikeyan V**
-
-Department of Computer Science and Engineering
-
-Annamalai University
-
----
 
 <div align="center">
 
