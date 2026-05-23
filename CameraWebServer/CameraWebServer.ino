@@ -9,8 +9,8 @@
 // ===========================
 // Enter your WiFi credentials
 // ===========================
-const char *ssid = "Pocohome";
-const char *password = "plane@000";
+const char *ssid = "*********"; //your Wifi Userid
+const char *password = "*********"; //your Wifi Password
 
 void startCameraServer();
 void setupLedFlash();
